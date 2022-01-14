@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.HistoryActivity"
+    android:orientation="vertical"
+    >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_history_activity"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_marginBottom="@dimen/margin_top_bottom"
+        >
+        <TextView
+            android:id="@+id/tv_history_toolbar_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/display_weather_history"
+            android:textSize="@dimen/button_text_size"
+            android:textStyle="bold"
+            />
+    </androidx.appcompat.widget.Toolbar>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:elevation="@dimen/cardView_elevation"
+        app:cardCornerRadius="@dimen/corner_radius"
+        >
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_weather_history_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone"
+        />
+
+    <TextView
+        android:id="@+id/tv_no_weather_history_available"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/no_weather_history_available"
+        android:gravity="center"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="@dimen/textView_text_size"
+        android:visibility="visible"
+        />
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

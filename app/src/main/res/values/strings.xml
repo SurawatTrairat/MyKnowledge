@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">MyKnowledge</string>
+    <string name="app_name_weather">Weather App</string>
+    <string name="weather_status">WEATHER</string>
+    <string name="display_weather_history">HISTORY</string>
+    <string name="image_contentDescription">image</string>
+
+    <string name="lets_get_started">Let\'s Get Started</string>
+    <string name="intro_text_description">An app that enables weather forecast from your geographical data</string>
+
+    <string name="weather_saved_success">Weather Saved Success</string>
+    <string name="sign_in_success">Sign In Successfully</string>
+    <string name="sign_up_success">Sign Up Successful</string>
+    <string name="sign_out_success">Sign Out Successful</string>
+    <string name="permission_denied">Permission Denied</string>
+
+    <string name="please_wait">Please Wait</string>
+    <string name="no_weather_history_available">No Weather History Available</string>
+    <string name="no_weather_details_available">No Weather Details Available</string>
+    <string name="sign_in_disclosure">Please enter your registered email and password to SIGN IN!</string>
+    <string name="sign_up_disclosure">Please enter your details to SIGN UP</string>
+    <string name="sign_out_disclosure">Click "YES" to Sign Out</string>
+    <string name="upload_profile_disclosure">Please select your profile photo and click upload</string>
+    <string name="please_select_photo_for_profile_upload">Please select a photo for profile upload</string>
+    <string name="welcome">WELCOME :</string>
+
+    <string name="error_name">Please enter your name</string>
+    <string name="error_email">Please enter your email</string>
+    <string name="error_password">Please enter your password</string>
+"
+    <string name="yes">YES</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="name">NAME</string>
+    <string name="display">DISPLAY</string>
+    <string name="save">SAVE</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_out">SIGN OUT</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="profile_image">PROFILE IMAGE</string>
+    <string name="upload">UPLOAD</string>
+
+    <string name="location">GPS Location</string>
+    <string name="temp">Current Temp</string>
+    <string name="temp_max">Max Temp</string>
+    <string name="temp_min">Min Temp</string>
+    <string name="wind">Wind Speed</string>
+    <string name="humidity">Humidity</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="temp_unit">&#xb0;C</string>
+    <string name="wind_unit">mph</string>
+    <string name="humidity_unit">bar</string>
+    <string name="time_unit">hr</string>
+    <string name="time">Date Time</string>
+
+</resources>

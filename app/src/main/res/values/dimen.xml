@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="app_name_top_text_size">35dp</dimen>
+    <dimen name="app_name_below_text_size">65dp</dimen>
+    <dimen name="intro_screen_title_text_size">40sp</dimen>
+    <dimen name="intro_screen_title_text_marginTop">40dp</dimen>
+    <dimen name="intro_screen_image_marginTop">30dp</dimen>
+    <dimen name="lets_get_started_text_marginTop">25dp</dimen>
+    <dimen name="lets_get_started_text_size">25sp</dimen>
+    <dimen name="intro_text_marginStartEnd">20dp</dimen>
+    <dimen name="intro_text_line_spacing_extra">5dp</dimen>
+    <dimen name="intro_text_marginTop">10dp</dimen>
+    <dimen name="intro_text_size">16sp</dimen>
+    <dimen name="btn_marginStartEnd">20dp</dimen>
+    <dimen name="intro_screen_sign_in_btn_marginTop">50dp</dimen>
+    <dimen name="btn_paddingTopBottom">8dp</dimen>
+    <dimen name="intro_screen_sign_up_btn_marginTop">15dp</dimen>
+    <dimen name="btn_text_size">18sp</dimen>
+    <dimen name="intro_image_height">150dp</dimen>
+    <dimen name="intro_image_width">200dp</dimen>
+
+    <dimen name="item_detail_divider_height">0.3dp</dimen>
+    <dimen name="item_detail_divider_marginTop">5dp</dimen>
+
+    <dimen name="toolbar_height">24dp</dimen>
+    <dimen name="circular_image_border_width">2dp</dimen>
+    <dimen name="circular_image_size">250dp</dimen>
+    <dimen name="circular_image_size_history_activity">75dp</dimen>
+    <dimen name="margin_top_bottom">20dp</dimen>
+    <dimen name="textView_button_height">100dp</dimen>
+    <dimen name="textView_button_margin_left_right">30dp</dimen>
+
+    <dimen name="button_elevation">5dp</dimen>
+    <dimen name="button_text_size">22sp</dimen>
+    <dimen name="textView_text_size">14sp</dimen>
+    <dimen name="disclosure_text_size">18sp</dimen>
+
+    <dimen name="editText_margin_start">16dp</dimen>
+    <dimen name="editText_margin_end">16dp</dimen>
+    <dimen name="cardView_margin_left_right">20dp</dimen>
+    <dimen name="cardView_padding">10dp</dimen>
+    <dimen name="linearLayout_padding">16dp</dimen>
+    <dimen name="corner_radius">15dp</dimen>
+    <dimen name="cardView_elevation">15dp</dimen>
+
+    <dimen name="progress_bar_size_width_height">150dp</dimen>
+
+</resources>
