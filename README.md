@@ -11,7 +11,7 @@ and password, where email and password will be validated prior to registration.
 2. Users will be able to upload their profile pictures. This is done by asking user permissions to accress mobile camera and storage.
 The photo will be displayed for the user to see with the help of glide, where user can choose to upload to Firestore storage.
 
-### Data Sorage
+### Data Storage
 
 3. User data will be stored in Firestore storage which will be further used to authenticate their login.
 
